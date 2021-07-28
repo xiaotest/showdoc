@@ -64,7 +64,7 @@ ShowDoc就是一个非常适合IT团队的在线文档分享工具，它可以�
 
 - 克隆或者下载代码：
 
-	[https://gitee.com/xialuocom/showdoc.git]
+	[https://gitee.com/xialuocom/showdoc.git][https://github.com/xiaotest/showdoc.git]
 
 - 导入数据库
 
